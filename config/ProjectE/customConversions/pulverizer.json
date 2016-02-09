@@ -1,0 +1,932 @@
+{
+  "comment": "/neircollect collect cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerPulverizer oredict",
+  "groups": {
+    "cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerPulverizer": {
+      "comment": "Generated with /neircollect collect cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerPulverizer oredict",
+      "conversions": [
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|41",
+          "ingredients": {
+            "Forestry:ingotBronze|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|2",
+          "ingredients": {
+            "appliedenergistics2:tile.OreQuartz|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "Magneticraft:item.dust|4",
+          "ingredients": {
+            "OD|oreTungsten": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "Magneticraft:item.dust|4",
+          "ingredients": {
+            "OD|ingotTungsten": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "ThermalFoundation:material|17",
+          "ingredients": {
+            "OD|oreSaltpeter": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "ThermalFoundation:material|16",
+          "ingredients": {
+            "Railcraft:ore|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|11",
+          "ingredients": {
+            "minecraft:yellow_flower|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "Magneticraft:item.dustBrass|0",
+          "ingredients": {
+            "Steamcraft:steamcraftIngot|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "Magneticraft:item.dust|12",
+          "ingredients": {
+            "Steamcraft:steamcraftIngot|1": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "Magneticraft:item.dust|12",
+          "ingredients": {
+            "Steamcraft:steamcraftOre|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:sand|0",
+          "ingredients": {
+            "OD|blockGlassColorless": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "ThermalFoundation:material|1029",
+          "ingredients": {
+            "OD|rodBasalz": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "ThermalFoundation:material|1027",
+          "ingredients": {
+            "OD|rodBlitz": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "minecraft:quartz_block|1": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "ThermalFoundation:material|1025",
+          "ingredients": {
+            "OD|rodBlizz": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|38",
+          "ingredients": {
+            "OD|oreMithril": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|37",
+          "ingredients": {
+            "OD|orePlatinum": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|36",
+          "ingredients": {
+            "ThermalFoundation:Ore|4": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|35",
+          "ingredients": {
+            "ThermalFoundation:Ore|3": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|34",
+          "ingredients": {
+            "ThermalFoundation:Ore|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|46",
+          "ingredients": {
+            "minecraft:ender_pearl|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolBlack": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolRed": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolGreen": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolBrown": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolBlue": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolPurple": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolCyan": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolLightGray": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolGray": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolPink": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolLime": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolYellow": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolLightBlue": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolMagenta": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolOrange": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:string|0",
+          "ingredients": {
+            "OD|blockWoolWhite": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "PracticalLogistics:SapphireDust|0",
+          "ingredients": {
+            "OD|gemSapphire": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|3",
+          "ingredients": {
+            "minecraft:coal|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|2",
+          "ingredients": {
+            "minecraft:coal|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:flint|0",
+          "ingredients": {
+            "OD|gravel": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:glowstone_dust|0",
+          "ingredients": {
+            "OD|glowstone": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "ThermalFoundation:material|4",
+          "ingredients": {
+            "minecraft:obsidian|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|44",
+          "ingredients": {
+            "OD|ingotEnderium": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|43",
+          "ingredients": {
+            "OD|ingotLumium": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|42",
+          "ingredients": {
+            "OD|ingotSignalum": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|40",
+          "ingredients": {
+            "OD|ingotInvar": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|39",
+          "ingredients": {
+            "ThermalFoundation:material|71": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|38",
+          "ingredients": {
+            "OD|ingotMithril": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|37",
+          "ingredients": {
+            "OD|ingotPlatinum": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|36",
+          "ingredients": {
+            "ThermalFoundation:material|68": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|35",
+          "ingredients": {
+            "ThermalFoundation:material|67": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|34",
+          "ingredients": {
+            "ThermalFoundation:material|66": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:dye|9",
+          "ingredients": {
+            "minecraft:double_plant|5": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:dye|1",
+          "ingredients": {
+            "minecraft:double_plant|4": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:dye|13",
+          "ingredients": {
+            "minecraft:double_plant|1": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:dye|11",
+          "ingredients": {
+            "minecraft:double_plant|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:gravel|0",
+          "ingredients": {
+            "OD|stone": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|4",
+          "ingredients": {
+            "OD|ingotObsidian": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "TConstruct:materials|42",
+          "ingredients": {
+            "TConstruct:materials|14": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "TConstruct:materials|41",
+          "ingredients": {
+            "OD|ingotManyullyn": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "TConstruct:materials|38",
+          "ingredients": {
+            "OD|ingotArdite": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "TConstruct:materials|39",
+          "ingredients": {
+            "OD|ingotCobalt": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|7",
+          "ingredients": {
+            "minecraft:red_flower|8": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|9",
+          "ingredients": {
+            "minecraft:red_flower|7": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|7",
+          "ingredients": {
+            "minecraft:red_flower|6": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|14",
+          "ingredients": {
+            "minecraft:red_flower|5": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|1",
+          "ingredients": {
+            "minecraft:red_flower|4": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|7",
+          "ingredients": {
+            "minecraft:red_flower|3": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|13",
+          "ingredients": {
+            "minecraft:red_flower|2": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|12",
+          "ingredients": {
+            "minecraft:red_flower|1": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:dye|1",
+          "ingredients": {
+            "minecraft:red_flower|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|33",
+          "ingredients": {
+            "Forestry:resources|2": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|32",
+          "ingredients": {
+            "Forestry:resources|1": 1
+          }
+        },
+        {
+          "count": 12,
+          "output": "Forestry:apatite|0",
+          "ingredients": {
+            "OD|oreApatite": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:blaze_powder|0",
+          "ingredients": {
+            "minecraft:blaze_rod|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:quartz_ore|0",
+          "ingredients": {
+            "OD|denseoreQuartz": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:coal_ore|0",
+          "ingredients": {
+            "OD|denseoreCoal": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:redstone_ore|0",
+          "ingredients": {
+            "OD|denseoreRedstone": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:emerald_ore|0",
+          "ingredients": {
+            "OD|denseoreEmerald": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:diamond_ore|0",
+          "ingredients": {
+            "OD|denseoreDiamond": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:lapis_ore|0",
+          "ingredients": {
+            "OD|denseoreLapis": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:gold_ore|0",
+          "ingredients": {
+            "OD|denseoreGold": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:iron_ore|0",
+          "ingredients": {
+            "OD|denseoreIron": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "TConstruct:materials|38",
+          "ingredients": {
+            "OD|oreArdite": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "TConstruct:materials|39",
+          "ingredients": {
+            "TConstruct:SearedBrick|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|32",
+          "ingredients": {
+            "Forestry:ingotCopper|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "simplyjetpacks:components|64",
+          "ingredients": {
+            "OD|ingotElectrumFlux": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|8",
+          "ingredients": {
+            "OD|crystalFluix": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:dye|15",
+          "ingredients": {
+            "minecraft:bone|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|2",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|3",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:sand|0",
+          "ingredients": {
+            "OD|cobblestone": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "minecraft:quartz_stairs|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "PracticalLogistics:Sapphire|0",
+          "ingredients": {
+            "OD|oreSapphire": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "minecraft:quartz_block|2": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "ThermalExpansion:Frame|5": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ImmersiveEngineering:metal|19",
+          "ingredients": {
+            "OD|ingotHOPGraphite": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "Magneticraft:item.dustdiamond|0",
+          "ingredients": {
+            "OD|gemDiamond": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:gravel|0",
+          "ingredients": {
+            "minecraft:netherrack|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "OD|blockQuartz": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ImmersiveEngineering:metal|15",
+          "ingredients": {
+            "ImmersiveEngineering:metal|5": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "TConstruct:materials|40",
+          "ingredients": {
+            "OD|ingotAluminium": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "ThermalExpansion:Cell|2": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "ThermalExpansion:Cell|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|4",
+          "ingredients": {
+            "OD|cropWheat": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "TConstruct:materials|40",
+          "ingredients": {
+            "TConstruct:SearedBrick|5": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:sand|0",
+          "ingredients": {
+            "minecraft:sandstone|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|45",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|33",
+          "ingredients": {
+            "Forestry:ingotTin|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:sugar|0",
+          "ingredients": {
+            "minecraft:reeds|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|5",
+          "ingredients": {
+            "OD|blockSand": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|1",
+          "ingredients": {
+            "OD|ingotGold": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalFoundation:material|0",
+          "ingredients": {
+            "OD|ingotIron": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalSmeltery:misc|0",
+          "ingredients": {
+            "ThermalExpansion:Device|5": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ThermalSmeltery:misc.potatoMashed|0",
+          "ingredients": {
+            "OD|cropPotato": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:coal|0",
+          "ingredients": {
+            "OD|oreCoal": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "OD|oreQuartz": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:emerald|0",
+          "ingredients": {
+            "minecraft:emerald_ore|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "OD|oreRedstone": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:diamond|0",
+          "ingredients": {
+            "minecraft:diamond_ore|0": 1
+          }
+        },
+        {
+          "count": 12,
+          "output": "minecraft:dye|4",
+          "ingredients": {
+            "minecraft:lapis_ore|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|0",
+          "ingredients": {
+            "minecraft:iron_ore|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|1",
+          "ingredients": {
+            "minecraft:gold_ore|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:stonebrick|2",
+          "ingredients": {
+            "OD|bricksStone": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "Magneticraft:item.dustSalt|0",
+          "ingredients": {
+            "OD|oreSalt": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "Magneticraft:item.dust|8",
+          "ingredients": {
+            "OD|oreThorium": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "Magneticraft:item.dust|7",
+          "ingredients": {
+            "OD|oreUranium": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "ThermalExpansion:Frame|4": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalExpansion:material|512",
+          "ingredients": {
+            "minecraft:log|0": 1
+          }
+        }
+      ]
+    }
+  },
+  "values": {
+    "before": {},
+    "after": {},
+    "conversion": []
+  }
+}

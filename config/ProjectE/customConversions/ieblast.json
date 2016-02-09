@@ -1,0 +1,29 @@
+{
+  "comment": "/neircollect collect blusunrize.immersiveengineering.client.nei.NEIBlastFurnaceHandler oredict",
+  "groups": {
+    "blusunrize.immersiveengineering.client.nei.NEIBlastFurnaceHandler": {
+      "comment": "Generated with /neircollect collect blusunrize.immersiveengineering.client.nei.NEIBlastFurnaceHandler oredict",
+      "conversions": [
+        {
+          "count": 1,
+          "output": "ImmersiveEngineering:metal|7",
+          "ingredients": {
+            "OD|ingotIron": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "ImmersiveEngineering:storage|7",
+          "ingredients": {
+            "OD|blockIron": 1
+          }
+        }
+      ]
+    }
+  },
+  "values": {
+    "before": {},
+    "after": {},
+    "conversion": []
+  }
+}

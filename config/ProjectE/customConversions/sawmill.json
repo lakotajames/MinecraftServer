@@ -1,0 +1,743 @@
+{
+  "comment": "/neircollect collect cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSawmill oredict",
+  "groups": {
+    "cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSawmill": {
+      "comment": "Generated with /neircollect collect cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSawmill oredict",
+      "conversions": [
+        {
+          "count": 8,
+          "output": "minecraft:melon|0",
+          "ingredients": {
+            "minecraft:melon_block|0": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "OD|chestWood": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "minecraft:log2|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "minecraft:log2|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_pickaxe|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "TwilightForest:tile.TFLog|3": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:trapdoor|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "TwilightForest:tile.TFLog|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "TwilightForest:tile.TFLog|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:bookshelf|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|5": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|4": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|3": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|2": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:noteblock|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|4",
+          "ingredients": {
+            "StorageDrawers:upgradeVoid|1": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:trim|5": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:trim|4": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:trim|3": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:trim|2": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:trim|1": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:trim|0": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:jukebox|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_hoe|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_sword|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "TwilightForest:tile.TFLog|2": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|5": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|4": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|3": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|2": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|1": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:emerald|0",
+          "ingredients": {
+            "StorageDrawers:upgrade|6": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:diamond|0",
+          "ingredients": {
+            "StorageDrawers:upgrade|5": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|4",
+          "ingredients": {
+            "StorageDrawers:upgrade|4": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|1",
+          "ingredients": {
+            "StorageDrawers:upgrade|3": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "ThermalFoundation:material|0",
+          "ingredients": {
+            "StorageDrawers:upgrade|2": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|14",
+          "ingredients": {
+            "Forestry:logs|14": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|13",
+          "ingredients": {
+            "Forestry:logs|13": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|12",
+          "ingredients": {
+            "Forestry:logs|12": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|11",
+          "ingredients": {
+            "Forestry:logs|11": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|10",
+          "ingredients": {
+            "Forestry:logs|10": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|9",
+          "ingredients": {
+            "Forestry:logs|9": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|8",
+          "ingredients": {
+            "Forestry:logs|8": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|7",
+          "ingredients": {
+            "Forestry:logs|7": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|6",
+          "ingredients": {
+            "Forestry:logs|6": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|5",
+          "ingredients": {
+            "Forestry:logs|5": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|4",
+          "ingredients": {
+            "Forestry:logs|4": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|3",
+          "ingredients": {
+            "Forestry:logs|3": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|2",
+          "ingredients": {
+            "Forestry:logs|2": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|1",
+          "ingredients": {
+            "Forestry:logs|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|0",
+          "ingredients": {
+            "Forestry:logs|0": 1
+          }
+        },
+        {
+          "count": 7,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:fullDrawers2|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planks|15",
+          "ingredients": {
+            "Forestry:logs|15": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_door|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_axe|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|5": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|4": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|3": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|2": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|1": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:halfDrawers4|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:fence_gate|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:crafting_table|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_shovel|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:sign|0": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|5": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|4": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|3": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|2": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|1": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:fullDrawers4|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:quartz|0",
+          "ingredients": {
+            "StorageDrawers:upgradeStatus|2": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:redstone|0",
+          "ingredients": {
+            "StorageDrawers:upgradeStatus|1": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:bed|0": 1
+          }
+        },
+        {
+          "count": 5,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:boat|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|15",
+          "ingredients": {
+            "Forestry:logsFireproof|15": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|14",
+          "ingredients": {
+            "Forestry:logsFireproof|14": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|13",
+          "ingredients": {
+            "Forestry:logsFireproof|13": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|12",
+          "ingredients": {
+            "Forestry:logsFireproof|12": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|11",
+          "ingredients": {
+            "Forestry:logsFireproof|11": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|10",
+          "ingredients": {
+            "Forestry:logsFireproof|10": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|9",
+          "ingredients": {
+            "Forestry:logsFireproof|9": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|8",
+          "ingredients": {
+            "Forestry:logsFireproof|8": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|7",
+          "ingredients": {
+            "Forestry:logsFireproof|7": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|6",
+          "ingredients": {
+            "Forestry:logsFireproof|6": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|5",
+          "ingredients": {
+            "Forestry:logsFireproof|5": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|4",
+          "ingredients": {
+            "Forestry:logsFireproof|4": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|3",
+          "ingredients": {
+            "Forestry:logsFireproof|3": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|2",
+          "ingredients": {
+            "Forestry:logsFireproof|2": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|1",
+          "ingredients": {
+            "Forestry:logsFireproof|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "Forestry:planksFireproof|0",
+          "ingredients": {
+            "Forestry:logsFireproof|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:halfDrawers2|1": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:wooden_pressure_plate|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "minecraft:log|3": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "minecraft:log|2": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "minecraft:log|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "minecraft:log|0": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|5",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|5": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|4",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|4": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|3",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|3": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|2",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|2": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|1",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|1": 1
+          }
+        },
+        {
+          "count": 6,
+          "output": "minecraft:planks|0",
+          "ingredients": {
+            "StorageDrawers:fullDrawers1|0": 1
+          }
+        }
+      ]
+    }
+  },
+  "values": {
+    "before": {},
+    "after": {},
+    "conversion": []
+  }
+}
