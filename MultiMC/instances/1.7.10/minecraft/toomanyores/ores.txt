@@ -1,0 +1,548 @@
+oreGold
+	tile.oreGold
+		Gold Ore
+	block.ore.gravel.gold
+		Gold Gravel Ore
+oreIron
+	tile.oreIron
+		Iron Ore
+	block.ore.gravel.iron
+		Iron Gravel Ore
+oreLapis
+	tile.oreLapis
+		Lapis Lazuli Ore
+	tile.railcraft.ore.dark.lapis
+		Dark Lapis Lazuli Ore
+oreDiamond
+	tile.oreDiamond
+		Diamond Ore
+	tile.railcraft.ore.dark.diamond
+		Dark Diamond Ore
+oreRedstone
+	tile.oreRedstone
+		Redstone Ore
+oreEmerald
+	tile.oreEmerald
+		Emerald Ore
+	tile.railcraft.ore.dark.emerald
+		Dark Emerald Ore
+oreQuartz
+	tile.netherquartz
+		Nether Quartz Ore
+oreCoal
+	tile.oreCoal
+		Coal Ore
+oreApatite
+	tile.for.resources.0
+		Apatite Ore
+oreCopper
+	tile.for.resources.1
+		Copper Ore
+	tile.thermalfoundation.ore.copper.name
+		Copper Ore
+	tile.ImmersiveEngineering.ore.Copper
+		Copper Ore
+	MetalOre.Copper
+		Copper Ore
+	block.ore.gravel.copper
+		Copper Gravel Ore
+	tile.steamcraft:ore.0
+		Copper Ore
+	copper_ore
+		Copper Ore
+oreTin
+	tile.for.resources.2
+		Tin Ore
+	tile.thermalfoundation.ore.tin.name
+		Tin Ore
+	MetalOre.Tin
+		Tin Ore
+	block.ore.gravel.tin
+		Tin Gravel Ore
+oreSilver
+	tile.thermalfoundation.ore.silver.name
+		Silver Ore
+	tile.ImmersiveEngineering.ore.Silver
+		Silver Ore
+oreLead
+	tile.thermalfoundation.ore.lead.name
+		Lead Ore
+	tile.ImmersiveEngineering.ore.Lead
+		Lead Ore
+oreNickel
+	tile.thermalfoundation.ore.nickel.name
+		Ferrous Ore
+	tile.ImmersiveEngineering.ore.Nickel
+		Nickel Ore
+orePlatinum
+	tile.thermalfoundation.ore.platinum.name
+		Shiny Ore
+oreMithril
+	tile.thermalfoundation.ore.mithril.name
+		Mana Infused Ore
+oreSulfur
+	tile.railcraft.ore.sulfur
+		Sulfur Ore
+	sulfur_ore
+		Sulfur Ore
+oreSaltpeter
+	tile.railcraft.ore.saltpeter
+		Saltpeter Ore
+oreFirestone
+	tile.railcraft.ore.firestone
+		Firestone Ore
+orePoorCopper
+	tile.railcraft.ore.poor.copper
+		Poor Copper Ore
+orePoorGold
+	tile.railcraft.ore.poor.gold
+		Poor Gold Ore
+orePoorIron
+	tile.railcraft.ore.poor.iron
+		Poor Iron Ore
+orePoorTin
+	tile.railcraft.ore.poor.tin
+		Poor Tin Ore
+orePoorLead
+	tile.railcraft.ore.poor.lead
+		Poor Lead Ore
+oreAluminum
+	tile.ImmersiveEngineering.ore.Aluminum
+		Bauxite Ore
+	MetalOre.Aluminum
+		Aluminum Ore
+	block.ore.gravel.aluminum
+		Aluminum Gravel Ore
+oreCobalt
+	MetalOre.Cobalt
+		Cobalt Ore
+	block.ore.gravel.cobalt
+		Cobalt Gravel Ore
+oreArdite
+	MetalOre.Ardite
+		Ardite Ore
+oreAluminium
+	MetalOre.Aluminum
+		Aluminum Ore
+	block.ore.gravel.aluminum
+		Aluminum Gravel Ore
+oreberryIron
+	item.oreberry.iron
+		Iron Oreberry
+oreberryCopper
+	item.oreberry.copper
+		Copper Oreberry
+oreberryTin
+	item.oreberry.tin
+		Tin Oreberry
+oreberryAluminum
+	item.oreberry.aluminum
+		Aluminum Oreberry
+oreberryAluminium
+	item.oreberry.aluminum
+		Aluminum Oreberry
+oreberryGold
+	item.oreberry.gold
+		Gold Oreberry
+oreberryEssence
+	item.oreberry.gold
+		Gold Oreberry
+	item.oreberry.essence
+		Concentrated Essence Berry
+orebushIron
+	block.oreberry.iron
+		Iron Oreberry Bush
+orebushGold
+	block.oreberry.gold
+		Gold Oreberry Bush
+orebushCopper
+	block.oreberry.copper
+		Copper Oreberry Bush
+orebushTin
+	block.oreberry.tin
+		Tin Oreberry Bush
+orebushAluminum
+	block.oreberry.aluminum
+		Aluminum Oreberry Bush
+orebushAluminium
+	block.oreberry.aluminum
+		Aluminum Oreberry Bush
+orebushEssence
+	block.oreberry.essence
+		Essence Berry Bush
+oreZinc
+	tile.steamcraft:ore.1
+		Zinc Ore
+	zinc_ore
+		Zinc Ore
+orePoorZinc
+	tile.steamcraft:ore.2
+		Poor Zinc Ore
+oreTungsten
+	tungsten_ore
+		Tungsten Ore
+oreUranium
+	uranium_ore
+		Uranium Ore
+oreThorium
+	thorium_ore
+		Thorium Ore
+oreSalt
+	salt_ore
+		Salt Ore
+oreCertusQuartz
+	tile.appliedenergistics2.OreQuartz
+		Certus Quartz Ore
+	tile.appliedenergistics2.OreQuartzCharged
+		Charged Certus Quartz Ore
+oreSapphire
+	tile.SapphireOre
+		Sapphire Ore
+oreberrySilver
+	item.aobdbb.oreberrySilver
+		Silver Oreberry
+orebushSilver
+	tile.aobdbb.orebushSilver
+		Silver Oreberry Bush
+oreberryLead
+	item.aobdbb.oreberryLead
+		Lead Oreberry
+orebushLead
+	tile.aobdbb.orebushLead
+		Lead Oreberry Bush
+oreberryNickel
+	item.aobdbb.oreberryNickel
+		Nickel Oreberry
+orebushNickel
+	tile.aobdbb.orebushNickel
+		Nickel Oreberry Bush
+oreberryPlatinum
+	item.aobdbb.oreberryPlatinum
+		Platinum Oreberry
+orebushPlatinum
+	tile.aobdbb.orebushPlatinum
+		Platinum Oreberry Bush
+oreberryMithril
+	item.aobdbb.oreberryMithril
+		Mithril Oreberry
+orebushMithril
+	tile.aobdbb.orebushMithril
+		Mithril Oreberry Bush
+oreberryCobalt
+	item.aobdbb.oreberryCobalt
+		Cobalt Oreberry
+orebushCobalt
+	tile.aobdbb.orebushCobalt
+		Cobalt Oreberry Bush
+oreberryArdite
+	item.aobdbb.oreberryArdite
+		Ardite Oreberry
+orebushArdite
+	tile.aobdbb.orebushArdite
+		Ardite Oreberry Bush
+oreberryZinc
+	item.aobdbb.oreberryZinc
+		Zinc Oreberry
+orebushZinc
+	tile.aobdbb.orebushZinc
+		Zinc Oreberry Bush
+oreberryTungsten
+	item.aobdbb.oreberryTungsten
+		Tungsten Oreberry
+orebushTungsten
+	tile.aobdbb.orebushTungsten
+		Tungsten Oreberry Bush
+oreNetherAluminum
+orePoorAluminum
+oreLimestone
+oreNetherLimestone
+orePoorLimestone
+oreLumium
+oreNetherLumium
+orePoorLumium
+oreNetherIron
+oreNaturalAluminum
+oreNetherNaturalAluminum
+orePoorNaturalAluminum
+oreNetherCobalt
+orePoorCobalt
+oreSignalum
+oreNetherSignalum
+orePoorSignalum
+oreAluminumBrass
+oreNetherAluminumBrass
+orePoorAluminumBrass
+oreNetherPlatinum
+orePoorPlatinum
+oreNetherLead
+oreManyullyn
+oreNetherManyullyn
+orePoorManyullyn
+oreNetherCopper
+oreEnderium
+oreNetherEnderium
+orePoorEnderium
+oreBronze
+oreNetherBronze
+orePoorBronze
+oreNetherGold
+oreNetherMithril
+orePoorMithril
+oreNetherArdite
+orePoorArdite
+oreSteel
+oreNetherSteel
+orePoorSteel
+oreElectrum
+oreNetherElectrum
+orePoorElectrum
+oreNetherSilver
+orePoorSilver
+oreAlumite
+oreNetherAlumite
+orePoorAlumite
+oreGlue
+oreNetherGlue
+orePoorGlue
+oreNetherTin
+oreNetherNickel
+orePoorNickel
+oreInvar
+oreNetherInvar
+orePoorInvar
+orePigIron
+oreNetherPigIron
+orePoorPigIron
+oreObsidian
+orePoorObsidian
+oreNetherObsidian
+orePrometheum
+oreNetherPrometheum
+orePoorPrometheum
+oreDeepIron
+oreNetherDeepIron
+orePoorDeepIron
+orenull
+oreNethernull
+orePoornull
+oreNetherCoal
+orePoorCoal
+oreTetrahedrite
+oreNetherTetrahedrite
+orePoorTetrahedrite
+oreNetherAluminium
+orePoorAluminium
+oreShard
+oreNetherShard
+orePoorShard
+oreBauxite
+oreNetherBauxite
+orePoorBauxite
+oreNetherZinc
+oreInfuscolium
+oreNetherInfuscolium
+orePoorInfuscolium
+orePyrite
+oreNetherPyrite
+orePoorPyrite
+oreNetherLapis
+orePoorLapis
+oreOureclase
+oreNetherOureclase
+orePoorOureclase
+oreLemurite
+oreNetherLemurite
+orePoorLemurite
+oreIgnatius
+oreNetherIgnatius
+orePoorIgnatius
+oreCassiterite
+oreNetherCassiterite
+orePoorCassiterite
+oreNetherRedstone
+orePoorRedstone
+oreGalena
+oreNetherGalena
+orePoorGalena
+oreSphalerite
+oreNetherSphalerite
+orePoorSphalerite
+oreOsmium
+oreNetherOsmium
+orePoorOsmium
+oreAstralSilver
+oreNetherAstralSilver
+orePoorAstralSilver
+oreShadowIron
+oreNetherShadowIron
+orePoorShadowIron
+oreNetherDiamond
+orePoorDiamond
+oreNetherEmerald
+orePoorEmerald
+oreRuby
+oreNetherRuby
+orePoorRuby
+oreNetherSapphire
+orePoorSapphire
+oreAmethyst
+oreNetherAmethyst
+orePoorAmethyst
+oreCinnabar
+oreNetherCinnabar
+orePoorCinnabar
+oreGreenSapphire
+oreNetherGreenSapphire
+orePoorGreenSapphire
+oreBlackGranite
+oreNetherBlackGranite
+orePoorBlackGranite
+oreRedGranite
+oreNetherRedGranite
+orePoorRedGranite
+oreManganese
+oreNetherManganese
+orePoorManganese
+oreCarmot
+oreNetherCarmot
+orePoorCarmot
+oreMidasium
+oreNetherMidasium
+orePoorMidasium
+oreVyroxeres
+oreNetherVyroxeres
+orePoorVyroxeres
+oreTungstate
+oreNetherTungstate
+orePoorTungstate
+oreSodalite
+oreNetherSodalite
+orePoorSodalite
+oreNetherQuartz
+orePoorQuartz
+oreNetherCertusQuartz
+orePoorCertusQuartz
+oreSkyStone
+oreNetherSkyStone
+orePoorSkyStone
+oreCeruclase
+oreNetherCeruclase
+orePoorCeruclase
+oreEximite
+oreNetherEximite
+orePoorEximite
+oreNetherUranium
+orePoorUranium
+oreOlivine
+oreNetherOlivine
+orePoorOlivine
+oreSheldonite
+oreNetherSheldonite
+orePoorSheldonite
+oreYellorite
+oreNetherYellorite
+orePoorYellorite
+oreRubracium
+oreNetherRubracium
+orePoorRubracium
+oreAlduorite
+oreNetherAlduorite
+orePoorAlduorite
+oreMeutoite
+oreNetherMeutoite
+orePoorMeutoite
+oreIridium
+oreNetherIridium
+orePoorIridium
+oreCooperite
+oreNetherCooperite
+orePoorCooperite
+oreTitanium
+oreNetherTitanium
+orePoorTitanium
+oreOrichalcum
+oreNetherOrichalcum
+orePoorOrichalcum
+oreKalendrite
+oreNetherKalendrite
+orePoorKalendrite
+oreAdamantine
+oreNetherAdamantine
+orePoorAdamantine
+oreVulcanite
+oreNetherVulcanite
+orePoorVulcanite
+oreAtlarus
+oreNetherAtlarus
+orePoorAtlarus
+oreSanguinite
+oreNetherSanguinite
+orePoorSanguinite
+oreBerryIron
+oreBerryCopper
+oreBerryTin
+oreBerryAluminum
+oreBerryAluminium
+oreBerryGold
+oreBerryEssence
+oreBushIron
+oreBushGold
+oreBushCopper
+oreBushTin
+oreBushAluminum
+oreBushAluminium
+oreBushEssence
+oreBerrySilver
+oreBushSilver
+oreBerryLead
+oreBushLead
+oreBerryNickel
+oreBushNickel
+oreBerryPlatinum
+oreBushPlatinum
+oreBerryMithril
+oreBushMithril
+oreBerryCobalt
+oreBushCobalt
+oreBerryArdite
+oreBushArdite
+oreBerryZinc
+oreBushZinc
+oreBerryTungsten
+oreBushTungsten
+oreNull
+oreGlowstone
+oreAsh
+oreCharcoal
+orePyrotheum
+oreCryotheum
+oreAerotheum
+orePetrotheum
+oreBlizz
+oreBlitz
+oreBasalz
+oreGunpowder
+oreConstantan
+oreCoke
+oreHOPGraphite
+oreCupronickel
+oreAluminiumBrass
+oreSugar
+oreBrass
+oreBismuth
+oreChromium
+oreLithium
+oreElectrumFlux
+oreWheat
+oreFluix
+oreEnder
+oreEnderPearl
+oreWood
+oreBone
+oreTinyGold
+oreTinyIron
+oreTinyZinc
+oreTinyCopper
+oreTinyBrass
+oreCrystalFlux
+oreTinyTin

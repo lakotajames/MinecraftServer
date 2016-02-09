@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "accessToken": "930750d1bbe7426387ddc43b37d4f212",
+            "activeProfile": "6609bb27a8b741a2bb2da20541cac6da",
+            "clientToken": "2b2f3d4ff0be448081f1804aca88c379",
+            "profiles": [
+                {
+                    "id": "6609bb27a8b741a2bb2da20541cac6da",
+                    "legacy": false,
+                    "name": "lakotajames"
+                }
+            ],
+            "user": {
+                "id": "556492ae2d78413ebd2b10f454e9a8c1"
+            },
+            "username": "lakota.james@gmail.com"
+        }
+    ],
+    "activeAccount": "lakota.james@gmail.com",
+    "formatVersion": 2
+}
