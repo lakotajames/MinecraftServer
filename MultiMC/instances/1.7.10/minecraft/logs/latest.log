@@ -1,29 +1,53 @@
-[04:10:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[04:11:41] [Server thread/INFO]: Loading properties
-[04:11:41] [Server thread/INFO]: Default game type: SURVIVAL
-[04:11:41] [Server thread/INFO]: Generating keypair
-[04:11:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:12:17] [Server thread/INFO]: Preparing level "world"
-[04:12:20] [Server thread/INFO]: Preparing start region for level 0
-[04:12:21] [Server thread/INFO]: Preparing spawn area: 34%
-[04:12:22] [Server thread/INFO]: Done (6.495s)! For help, type "help" or "?"
-[04:12:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3166ms behind, skipping 63 tick(s)
-[04:12:48] [User Authenticator #1/INFO]: UUID of player lakotajames is 6609bb27-a8b7-41a2-bb2d-a20541cac6da
-[04:12:48] [Server thread/INFO]: lakotajames[/192.168.1.17:65237] logged in with entity id 735 at (-80.5, 67.0, 209.5)
-[04:12:49] [Server thread/INFO]: lakotajames joined the game
-[04:13:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8838ms behind, skipping 176 tick(s)
-[04:13:07] [Server thread/INFO]: lakotajames has just earned the achievement [Taking Inventory]
-[04:13:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[04:13:55] [Server thread/INFO]: Opped lakotajames
-[04:14:06] [Server thread/INFO]: lakotajames lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:14:06] [Server thread/INFO]: lakotajames left the game
-[04:19:40] [Server thread/INFO]: Stopping the server
-[04:19:40] [Server thread/INFO]: Stopping server
-[04:19:40] [Server thread/INFO]: Saving players
-[04:19:40] [Server thread/INFO]: Saving worlds
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
-[04:19:40] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
+[04:24:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[04:26:06] [Server thread/INFO]: Loading properties
+[04:26:06] [Server thread/INFO]: Default game type: SURVIVAL
+[04:26:06] [Server thread/INFO]: Generating keypair
+[04:26:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:26:42] [Server thread/INFO]: Preparing level "world"
+[04:26:44] [Server thread/INFO]: Preparing start region for level 0
+[04:26:45] [Server thread/INFO]: Preparing spawn area: 33%
+[04:26:46] [Server thread/INFO]: Preparing spawn area: 76%
+[04:26:46] [Server thread/INFO]: Done (6.145s)! For help, type "help" or "?"
+[04:27:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
+[04:27:36] [User Authenticator #1/INFO]: UUID of player lakotajames is 6609bb27-a8b7-41a2-bb2d-a20541cac6da
+[04:27:36] [Server thread/INFO]: lakotajames[/192.168.1.1:65507] logged in with entity id 863 at (-83.07892151483985, 65.0, 193.77219945968864)
+[04:27:36] [Server thread/INFO]: lakotajames joined the game
+[04:27:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3191ms behind, skipping 63 tick(s)
+[04:27:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2737ms behind, skipping 54 tick(s)
+[05:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15255ms behind, skipping 305 tick(s)
+[05:15:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14533ms behind, skipping 290 tick(s)
+[05:15:18] [Server thread/INFO]: lakotajames has just earned the achievement [Getting Wood]
+[05:15:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2121ms behind, skipping 42 tick(s)
+[05:17:25] [User Authenticator #2/INFO]: UUID of player A_Fat_Black_Kid is d8a77cf9-96d3-4fe8-84ce-df399411d09d
+[05:17:26] [Server thread/INFO]: A_Fat_Black_Kid[/192.168.1.1:49476] logged in with entity id 44429 at (-69.5, 72.0, 215.5)
+[05:17:26] [Server thread/INFO]: A_Fat_Black_Kid joined the game
+[05:17:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3208ms behind, skipping 64 tick(s)
+[05:20:54] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Taking Inventory]
+[05:21:20] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Getting Wood]
+[05:21:54] [Server thread/INFO]: lakotajames has just earned the achievement [Benchmarking]
+[05:22:49] [Server thread/INFO]: <A_Fat_Black_Kid> but do you recaaaaalll the most faaaaamous raindeeeeer of aaaaaaal?
+[05:24:42] [Server thread/INFO]: <lakotajames> No.
+[05:25:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
+[05:25:52] [Server thread/INFO]: <lakotajames> What?
+[05:26:09] [Server thread/INFO]: <lakotajames> I can't really hear you
+[05:26:29] [Server thread/INFO]: <lakotajames> It sure is spoopy out here
+[05:27:05] [Server thread/INFO]: <lakotajames> Fucking can
+[05:27:10] [Server thread/INFO]: <lakotajames> can't find gravel
+[05:27:15] [Server thread/INFO]: <A_Fat_Black_Kid> did u instal that piece of shit mod that makes everything pitch black...
+[05:27:20] [Server thread/INFO]: <lakotajames> mhm
+[05:27:36] [Server thread/INFO]: <A_Fat_Black_Kid> did u instal dynamic lighting?
+[05:27:40] [Server thread/INFO]: <lakotajames> no
+[05:27:42] [Server thread/INFO]: <lakotajames> dammit
+[05:38:37] [Server thread/INFO]: lakotajames has just earned the achievement [Learning to Tinker]
+[05:38:38] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Benchmarking]
+[05:40:52] [Server thread/INFO]: lakotajames was slain by entity.GraveStone.GSZombieSkullCrawler.name
+[05:52:54] [Server thread/INFO]: Stopping the server
+[05:52:54] [Server thread/INFO]: Stopping server
+[05:52:54] [Server thread/INFO]: Saving players
+[05:52:54] [Server thread/INFO]: Saving worlds
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
+[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
