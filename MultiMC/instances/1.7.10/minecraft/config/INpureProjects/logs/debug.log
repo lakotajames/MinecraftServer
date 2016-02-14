@@ -137,18 +137,18 @@ Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:storage_5
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_5
+getRandomMaterial called. Returned: ImmersiveEngineering:stoneDevice_4
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDevice_4
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 getFacadesSize called. Returned: 2847
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2073
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1196
 Loading: Bibliocraft.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
 getNumberOfTypes called. Returned: 2184
-override called. Params: appliedenergistics2, item.ItemFacade, 822
+override called. Params: appliedenergistics2, item.ItemFacade, 1420
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js

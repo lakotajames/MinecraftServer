@@ -1,53 +1,120 @@
-[04:24:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[04:26:06] [Server thread/INFO]: Loading properties
-[04:26:06] [Server thread/INFO]: Default game type: SURVIVAL
-[04:26:06] [Server thread/INFO]: Generating keypair
-[04:26:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:26:42] [Server thread/INFO]: Preparing level "world"
-[04:26:44] [Server thread/INFO]: Preparing start region for level 0
-[04:26:45] [Server thread/INFO]: Preparing spawn area: 33%
-[04:26:46] [Server thread/INFO]: Preparing spawn area: 76%
-[04:26:46] [Server thread/INFO]: Done (6.145s)! For help, type "help" or "?"
-[04:27:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
-[04:27:36] [User Authenticator #1/INFO]: UUID of player lakotajames is 6609bb27-a8b7-41a2-bb2d-a20541cac6da
-[04:27:36] [Server thread/INFO]: lakotajames[/192.168.1.1:65507] logged in with entity id 863 at (-83.07892151483985, 65.0, 193.77219945968864)
-[04:27:36] [Server thread/INFO]: lakotajames joined the game
-[04:27:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3191ms behind, skipping 63 tick(s)
-[04:27:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2737ms behind, skipping 54 tick(s)
-[05:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15255ms behind, skipping 305 tick(s)
-[05:15:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14533ms behind, skipping 290 tick(s)
-[05:15:18] [Server thread/INFO]: lakotajames has just earned the achievement [Getting Wood]
-[05:15:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2121ms behind, skipping 42 tick(s)
-[05:17:25] [User Authenticator #2/INFO]: UUID of player A_Fat_Black_Kid is d8a77cf9-96d3-4fe8-84ce-df399411d09d
-[05:17:26] [Server thread/INFO]: A_Fat_Black_Kid[/192.168.1.1:49476] logged in with entity id 44429 at (-69.5, 72.0, 215.5)
-[05:17:26] [Server thread/INFO]: A_Fat_Black_Kid joined the game
-[05:17:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3208ms behind, skipping 64 tick(s)
-[05:20:54] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Taking Inventory]
-[05:21:20] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Getting Wood]
-[05:21:54] [Server thread/INFO]: lakotajames has just earned the achievement [Benchmarking]
-[05:22:49] [Server thread/INFO]: <A_Fat_Black_Kid> but do you recaaaaalll the most faaaaamous raindeeeeer of aaaaaaal?
-[05:24:42] [Server thread/INFO]: <lakotajames> No.
-[05:25:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
-[05:25:52] [Server thread/INFO]: <lakotajames> What?
-[05:26:09] [Server thread/INFO]: <lakotajames> I can't really hear you
-[05:26:29] [Server thread/INFO]: <lakotajames> It sure is spoopy out here
-[05:27:05] [Server thread/INFO]: <lakotajames> Fucking can
-[05:27:10] [Server thread/INFO]: <lakotajames> can't find gravel
-[05:27:15] [Server thread/INFO]: <A_Fat_Black_Kid> did u instal that piece of shit mod that makes everything pitch black...
-[05:27:20] [Server thread/INFO]: <lakotajames> mhm
-[05:27:36] [Server thread/INFO]: <A_Fat_Black_Kid> did u instal dynamic lighting?
-[05:27:40] [Server thread/INFO]: <lakotajames> no
-[05:27:42] [Server thread/INFO]: <lakotajames> dammit
-[05:38:37] [Server thread/INFO]: lakotajames has just earned the achievement [Learning to Tinker]
-[05:38:38] [Server thread/INFO]: A_Fat_Black_Kid has just earned the achievement [Benchmarking]
-[05:40:52] [Server thread/INFO]: lakotajames was slain by entity.GraveStone.GSZombieSkullCrawler.name
-[05:52:54] [Server thread/INFO]: Stopping the server
-[05:52:54] [Server thread/INFO]: Stopping server
-[05:52:54] [Server thread/INFO]: Saving players
-[05:52:54] [Server thread/INFO]: Saving worlds
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/SpectreWorld
-[05:52:54] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
+[00:02:41] [Client thread/INFO]: Connecting to 192.168.1.249, 25565
+[00:06:16] [Client thread/INFO]: [CHAT] Teleported lakotajames to -232.5,65.5,109.5
+[00:29:34] [Client thread/INFO]: [CHAT] lakotajames has just earned the achievement [Birds on a Wire]
+[00:42:31] [Client thread/INFO]: [CHAT] changelog, clearKnowledge, setEMC, reloadEMC, removeEMC, resetEMC
+[00:42:32] [Client thread/INFO]: [CHAT] changelog, clearKnowledge, setEMC, reloadEMC, removeEMC, resetEMC
+[00:42:32] [Client thread/INFO]: [CHAT] changelog, clearKnowledge, setEMC, reloadEMC, removeEMC, resetEMC
+[00:42:32] [Client thread/INFO]: [CHAT] changelog, clearKnowledge, setEMC, reloadEMC, removeEMC, resetEMC
+[00:42:42] [Client thread/INFO]: [CHAT] Set EMC value for Magneticraft:item.dust to 128!
+[00:42:42] [Client thread/INFO]: [CHAT] Restart or use "/projecte reloadEMC" when all changes are complete.
+[00:42:56] [Client thread/INFO]: [CHAT] Reloading EMC values, expect lag.
+[00:42:58] [Client thread/INFO]: [CHAT] EMC reload complete. Sending updated data to clients.
+[01:07:03] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 10
+[01:07:03] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:03] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:03] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Average EMC for 19 blocks: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Average EMC for 25 blocks: 11
+[01:07:06] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:06] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:06] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:07] [Client thread/INFO]: [CHAT] Average EMC for 26 blocks: 1
+[01:07:07] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:07] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:07] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Average EMC for 26 blocks: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Average EMC for 26 blocks: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:08] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:09] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 6
+[01:07:09] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:09] [Client thread/INFO]: [CHAT] Second Max EMC: 9
+[01:07:09] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:09] [Client thread/INFO]: [CHAT] Average EMC for 26 blocks: 10
+[01:07:09] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:09] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:09] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:10] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 14
+[01:07:10] [Client thread/INFO]: [CHAT] Max EMC: 126
+[01:07:10] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:10] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 14
+[01:07:11] [Client thread/INFO]: [CHAT] Max EMC: 126
+[01:07:11] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:11] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:12] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:12] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:12] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:12] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 5
+[01:07:13] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:13] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 15
+[01:07:13] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:13] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:13] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:14] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 10
+[01:07:14] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:14] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:14] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:15] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:16] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Average EMC for 26 blocks: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Average EMC for 23 blocks: 11
+[01:07:17] [Client thread/INFO]: [CHAT] Max EMC: 126
+[01:07:17] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 5
+[01:07:17] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:17] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:17] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:18] [Client thread/INFO]: [CHAT] Average EMC for 24 blocks: 1
+[01:07:18] [Client thread/INFO]: [CHAT] Max EMC: 1
+[01:07:18] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:18] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:19] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 10
+[01:07:19] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:19] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:19] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:07:19] [Client thread/INFO]: [CHAT] Average EMC for 27 blocks: 5
+[01:07:19] [Client thread/INFO]: [CHAT] Max EMC: 128
+[01:07:19] [Client thread/INFO]: [CHAT] Second Max EMC: 1
+[01:07:19] [Client thread/INFO]: [CHAT] Third Max EMC: 1
+[01:11:25] [Client thread/INFO]: Stopping!

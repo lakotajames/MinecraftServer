@@ -3,10 +3,10 @@
         {
             "base": "asset_indexes",
             "etag": "\"ebefab1d0ce0cb30ba24efac134f5799\"",
-            "last_changed_timestamp": 1454989154434,
+            "last_changed_timestamp": 1455243525551,
             "md5sum": "ebefab1d0ce0cb30ba24efac134f5799",
             "path": "1.7.10.json",
-            "remote_changed_timestamp": "Mon, 08 Feb 2016 14:10:43 GMT"
+            "remote_changed_timestamp": "Tue, 09 Feb 2016 15:04:48 GMT"
         },
         {
             "base": "libraries",
